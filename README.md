@@ -6,5 +6,6 @@
     <li> Variáveis </li>
     <li> Declaração de objetos </li>
     <li> Alterar e acessar propriedades de objetos </li>
+    <li> Array dentro de um array </li>
     </ul>
    
