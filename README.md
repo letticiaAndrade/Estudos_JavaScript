@@ -13,8 +13,6 @@
     <li> Funções</li>
     <li> Condicional 'if and else' </li>
     <li> Estrutura de repetição 'while' </li>
-    <li> Estrutura de repetição 'for' </li>
-      
-      
+      <li> Estrutura de repetição 'for' </li>
     </ul>
    
