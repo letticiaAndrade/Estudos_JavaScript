@@ -12,8 +12,8 @@
     <li> Operadores de atribuição </li>
     <li> Funções</li>
     <li> Condicional 'if and else' </li>
-    <li> </li>
-    <li> </li>
+    <li> Estrutura de repetição 'while' </li>
+    <li> Estrutura de repetição 'for' </li>
       
       
     </ul>
