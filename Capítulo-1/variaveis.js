@@ -186,3 +186,5 @@ function Point(x,y) { // Por convenção, as construtoras começam com letras
    p.r() // => 1,414...
 
    // PARTE 1.2 'JavaScript do lado do cliente' do livro
+
+   
