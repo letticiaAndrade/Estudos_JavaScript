@@ -7,5 +7,14 @@
     <li> Declaração de objetos </li>
     <li> Alterar e acessar propriedades de objetos </li>
     <li> Array dentro de um array </li>
+    <li> Operadores aritméticos </li>
+    <li> Operadores de igualdade e relacionais </li>
+    <li> Operadores de atribuição </li>
+    <li> Funções</li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+      
+      
     </ul>
    
