@@ -1,4 +1,6 @@
 
+// Parte 1.1 'JavaScript básica' DO LIVRO
+
 // declaração de variáveis
 var x;    // declara uma variável chamada x
 
@@ -182,3 +184,5 @@ function Point(x,y) { // Por convenção, as construtoras começam com letras
    };
    // Agora o objeto Point b (e todos os futuros objetos Point) herda o método r()
    p.r() // => 1,414...
+
+   // PARTE 1.2 'JavaScript do lado do cliente' do livro
