@@ -14,5 +14,12 @@
     <li> Condicional 'if and else' </li>
     <li> Estrutura de repetição 'while' </li>
       <li> Estrutura de repetição 'for' </li>
+      
+      <h4> Capítulo 2: Estrutura léxica</h4>
+      <li> 2.1 Conjunto </li>
+      <li> 2.2 Comentários </li>
+      <li> 2.3 Literais </li>
+      <li> 2.4 Identificadores e palavras reservadas </li>
+      <li> 2.5 Pontos e vírgulas opcionais </li>
     </ul>
    
