@@ -20,5 +20,16 @@
       <li> 2.3 Literais </li>
       <li> 2.4 Identificadores e palavras reservadas </li>
       <li> 2.5 Pontos e vírgulas opcionais </li>
+      <h4>Capítulo 3: Tipos, valores e varíaveis</h4>
+      <li>Números</li>
+      <li>Texto</li>
+      <li>Valores booleanos</li>
+      <li>null e undefined</li>
+      <li>O objeto global</li>
+      <li>Objetos wrapper</li>
+      <li>Valores primitivos imutáveis e referências de objeto mutáveis</li>
+      <li>Conversões de tipo</li>
+      <li>Declaração de variável</li>
+      <li>Escopo de variável</li>
     </ul>
    
