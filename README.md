@@ -21,15 +21,15 @@
       <li> 2.4 Identificadores e palavras reservadas </li>
       <li> 2.5 Pontos e vírgulas opcionais </li>
       <h4>Capítulo 3: Tipos, valores e varíaveis</h4>
-      <li>Números</li>
-      <li>Texto</li>
-      <li>Valores booleanos</li>
-      <li>null e undefined</li>
-      <li>O objeto global</li>
-      <li>Objetos wrapper</li>
-      <li>Valores primitivos imutáveis e referências de objeto mutáveis</li>
-      <li>Conversões de tipo</li>
-      <li>Declaração de variável</li>
-      <li>Escopo de variável</li>
+      <li>3.1 Números</li>
+      <li>3.2 Texto</li>
+      <li>3.3 Valores booleanos</li>
+      <li>3.4 null e undefined</li>
+      <li>3.5 O objeto global</li>
+      <li>3.6 Objetos wrapper</li>
+      <li>3.7 Valores primitivos imutáveis e referências de objeto mutáveis</li>
+      <li>3.8 Conversões de tipo</li>
+      <li>3.9 Declaração de variável</li>
+      <li>3.10 Escopo de variável</li>
     </ul>
    
