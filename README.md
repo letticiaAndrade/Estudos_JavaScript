@@ -33,9 +33,4 @@
       <li>3.10 Escopo de variável</li>
     </ul>
       
-      <ol> teste 
-      <li> teste de lista ordenada </li>
-         <li> teste de lista ordenada2 </li>
-         <li> teste de lista ordenada3 </li>
-      </ol>
    
