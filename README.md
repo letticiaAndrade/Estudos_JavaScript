@@ -32,5 +32,20 @@
       <li>3.9 Declaração de variável</li>
       <li>3.10 Escopo de variável</li>
     </ul>
+      <h4>Capítulo 4: Expressões e operandos </h4>
+      <ul>
+      <li>Expressões primárias</li>
+      <li>Inicializadores de objeto e array</li>
+      <li>Expressões de acesso à propriedade</li>
+      <li>Expressões de invocação</li>
+      <li>Expressão de criação de objeto</li>
+      <li>Visão geral dos operandos</li>
+      <li>Expressões aritméticas</li>
+      <li>Expressões relacionais</li>
+      <li>Expressões lógicas</li>
+      <li>Expressões de atribuição</li>
+      <li>Expressões de avaliação </li>
+      <li>Operadores diversos</li>
+      </ul>
       
    
