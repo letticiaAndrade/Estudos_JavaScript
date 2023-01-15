@@ -36,16 +36,17 @@
       <ul>
       <li>4.1 Expressões primárias</li>
       <li>4.2 Inicializadores de objeto e array</li>
-      <li>4.3 Expressões de acesso à propriedade</li>
-      <li>4.4 Expressões de invocação</li>
-      <li>4.5 Expressão de criação de objeto</li>
-      <li>4.6 Visão geral dos operandos</li>
-      <li>4.7 Expressões aritméticas</li>
-      <li>4.8 Expressões relacionais</li>
-      <li>4.9 Expressões lógicas</li>
-      <li>4.10 Expressões de atribuição</li>
-      <li>4.11 Expressões de avaliação </li>
-      <li>4.12 Operadores diversos</li>
+       <li>4.3 Expressões de definição de função</li>
+      <li>4.4 Expressões de acesso à propriedade</li>
+      <li>4.5 Expressões de invocação</li>
+      <li>4.6 Expressão de criação de objeto</li>
+      <li>4.7 Visão geral dos operandos</li>
+      <li>4.8 Expressões aritméticas</li>
+      <li>4.9 Expressões relacionais</li>
+      <li>4.10 Expressões lógicas</li>
+      <li>4.11 Expressões de atribuição</li>
+      <li>4.12 Expressões de avaliação </li>
+      <li>4.13 Operadores diversos</li>
       </ul>
       
    
